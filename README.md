@@ -28,7 +28,7 @@ This project uses wavelet decomposition, singular value decomposition (SVD), and
       <li>
         <h2>Comparsion with other algorithms</h2>
         <ul>
-          <li>Now let’s use the built-in MATLAB functions or associated Python libraries for support vector machines (fitcsvm()) and decision tree (fitctree()) to separate the digits (I’ll provide more details in the template, but feel free to play around with these two functions, which have very detailed documentation on the MATLAB website).</li>
+          <li>Now let’s use the built-in MATLAB functions or associated Python libraries for support vector machines (fitcsvm()) and decision tree (fitctree()) to separate the digits.</li>
           <li>How do the three methods compare?</li>
         </ul>
       </li>
